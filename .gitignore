@@ -1,0 +1,9 @@
+# Adobe After Effects SDK（請自行向 Adobe 下載，勿上傳）
+/AE_SDK/
+
+# 編譯產物
+build/
+build-*/
+out/
+.vs/
+*.user
