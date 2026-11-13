@@ -1,6 +1,6 @@
 # TW UTF-8 Fixer
 
-修正 **Premiere Pro** 與 **After Effects** 中，簡體漢化第三方外掛的參數名稱亂碼，並轉成**繁體中文**顯示。
+修正 **Premiere Pro** 與 **After Effects** 中，簡體第三方外掛的參數名稱亂碼，並轉成**繁體中文**顯示。
 
 適用 Windows。改寫自 [AdoreLowen/AE-UTF8-Fixer](https://github.com/AdoreLowen/AE-UTF8-Fixer)，感謝原作者。
 
